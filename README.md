@@ -18,7 +18,7 @@ This is a simple digital clock that displays the current time using HTML, CSS, a
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/digital-clock.git
+   git clone https://github.com/Chaitanya14112/digital-clock.git
    ```
 2. Navigate to the project folder:
    ```sh
